@@ -74,10 +74,10 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 💞𝐀𝐋𝐈𝐍𝐀💞 
-𝙃𝙚𝙮,𝙄 𝙖𝙢 𝙖 𝙂𝙧𝙤𝙪𝙥 𝙈𝙖𝙣𝙖𝙜𝙚𝙧, 𝙈𝙖𝙙𝙚 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧 𝙈𝙖𝙣𝙖𝙜𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥𝙨.
+PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 💞༆✦Sαмαитнα✦༆💞 /n How are you.? 
+𝙃𝙚𝙮,𝙄 𝙖𝙢 𝙖 𝙂𝙧𝙤𝙪𝙥 𝙈𝙖𝙣𝙖𝙜𝙚𝙧😎 created by @jbrofficial, 𝙈𝙖𝙙𝙚 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧 𝙈𝙖𝙣𝙖𝙜𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥𝙨.
 
-[💞𝐀𝐋𝐈𝐍𝐀💞 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑖𝑛 𝐴𝐿𝐼𝑁𝐴🔥](https://telegra.ph/file/167501102e7b1b7cca989.jpg)
+[💞༆✦Sαмαитнα✦༆💞 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑖𝑛 ༆✦Sαмαитнα✦༆🔥](https://telegra.ph/file/b7b9e6d62d1b49282da43.jpg)
 
 1=> 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑚𝑎𝑛𝑎𝑔𝑒 𝑦𝑜𝑢𝑟 𝐺𝑟𝑜𝑢𝑝.✅ 
 
@@ -99,7 +99,7 @@ PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 �
 
 9=> 𝐷𝑜𝑛'𝑡 𝑓𝑜𝑟𝑔𝑒𝑡 𝑡𝑜 𝐽𝑜𝑖𝑛 𝑀𝑢𝑠𝑖𝑐 𝐺𝑟𝑜𝑢𝑝 𝑎𝑙𝑠𝑜 🔥🎵🎵.𝐶𝑜𝑚𝑒( 𝑀𝑢𝑠𝑖𝑐 𝐺𝑟𝑜𝑢𝑝 🎵)ℎ𝑒𝑟𝑒 𝑎𝑛𝑑 𝐿𝑖𝑠𝑡𝑒𝑛 𝑆𝑜𝑛𝑔𝑠 𝑖𝑛 𝑉𝐶 𝑤𝑖𝑡ℎ 𝐹𝑟𝑖𝑒𝑛𝑑𝑠 🎵.
 
-10=> [🔥𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙🔥 😎](https://t.me/shubhamtech2)
+10=> [🔥𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙🔥 😎](https://t.me/tamil_blaste)
 
 𝙏𝙝𝙞𝙨 𝙋𝙧𝙤 𝙗𝙤𝙩 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙗𝙮 [𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙](https://t.me/shubhamtech2)
 Click /help or use button below to find out more about how to use me to my full potential."""
@@ -107,7 +107,7 @@ Click /help or use button below to find out more about how to use me to my full 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD 💞𝐀𝐋𝐈𝐍𝐀💞 TO YOUR GROUP ➕️", url="t.me/alinatheprincesss_bot?startgroup=true"),
+            text="➕️ ADD 💞༆✦Sαмαитнα✦༆💞 TO YOUR GROUP ➕️", url="t.me/alinatheprincesss_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
@@ -115,7 +115,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨MY OWNER 😎✨", url="http://t.me/shubhamtech2"),
+            text="✨MY OWNER 😎✨", url="http://t.me/jbrofficial"),
        
     ],
     [  
