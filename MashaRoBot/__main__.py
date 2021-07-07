@@ -83,31 +83,27 @@ PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 �
 
 2=> 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑝𝑙𝑎𝑦 𝑠𝑜𝑛𝑔𝑠 𝑖𝑛 𝑉𝐶.✅ 
 
-3=> 𝐴𝐿𝐼𝑁𝐴 𝑖𝑠 𝑎 𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙 𝑎𝑛𝑑 ℎ𝑖𝑔ℎ-𝑎𝑑𝑣𝑎𝑛𝑐𝑒 𝐵𝑂𝑇 ✅ 
+3=> ✦Sαмαитнα✦ 𝑖𝑠 𝑎 𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙 𝑎𝑛𝑑 ℎ𝑖𝑔ℎ-𝑎𝑑𝑣𝑎𝑛𝑐𝑒 𝐵𝑂𝑇 ✅ 
 
-4=> 𝐴𝐿𝐼𝑁𝐴 𝐶𝑜𝑚𝑒𝑠 𝑤𝑖𝑡ℎ 𝑁𝑒𝑤 𝑎𝑛𝑑 𝑎𝑑𝑣𝑎𝑛𝑐𝑒 𝑓𝑒𝑎𝑡𝑢𝑟𝑒 ✅
+4=> ✦Sαмαитнα✦ 𝐶𝑜𝑚𝑒𝑠 𝑤𝑖𝑡ℎ 𝑁𝑒𝑤 𝑎𝑛𝑑 𝑎𝑑𝑣𝑎𝑛𝑐𝑒 𝑓𝑒𝑎𝑡𝑢𝑟𝑒 ✅
 
-5=> 𝑌𝑜𝑢 𝑐𝑎𝑛'𝑡 𝑐𝑜𝑚𝑝𝑎𝑟𝑒 𝐴𝐿𝐼𝑁𝐴 𝐵𝑂𝑇 𝑤𝑖𝑡ℎ 𝑜𝑡ℎ𝑒𝑟𝑠 𝐵𝑜𝑡 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝐴𝐿𝐼𝑁𝐴 𝑖𝑠 𝑎 𝑃𝑅𝑂 𝐵𝑂𝑇 😎
+5=> 𝑌𝑜𝑢 𝑐𝑎𝑛'𝑡 𝑐𝑜𝑚𝑝𝑎𝑟𝑒 ✦Sαмαитнα✦ 𝐵𝑂𝑇 𝑤𝑖𝑡ℎ 𝑜𝑡ℎ𝑒𝑟𝑠 𝐵𝑜𝑡 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 ✦Sαмαитнα✦ 𝑖𝑠 𝑎 𝑃𝑅𝑂 𝐵𝑂𝑇 😎
 
-6=> 𝑀𝑜𝑟𝑒 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑜𝑛𝑙𝑦 𝑖𝑛 𝐴𝐿𝐼𝑁𝐴 𝐵𝑂𝑇 😎
+6=> 𝑀𝑜𝑟𝑒 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑜𝑛𝑙𝑦 𝑖𝑛 Sαмαитнα 𝐵𝑂𝑇 😎
 
-7=> 𝑂𝑛𝑒 𝑏𝑜𝑡(💞𝐀𝐋𝐈𝐍𝐀💞) 𝑐𝑎𝑛 𝑑𝑜 𝑒𝑣𝑒𝑟𝑦𝑡ℎ𝑖𝑛𝑔 𝑜𝑛𝑙𝑦🔥 𝑌𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛 𝑐𝑜𝑚𝑚𝑎𝑛𝑑𝑠 𝑜𝑓 𝑡ℎ𝑖𝑠 𝐵𝑂𝑇 ✅ 
+7=> 𝑂𝑛𝑒 𝑏𝑜𝑡(✦Sαмαитнα✦) 𝑐𝑎𝑛 𝑑𝑜 𝑒𝑣𝑒𝑟𝑦𝑡ℎ𝑖𝑛𝑔 𝑜𝑛𝑙𝑦🔥 𝑌𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛 𝑐𝑜𝑚𝑚𝑎𝑛𝑑𝑠 𝑜𝑓 𝑡ℎ𝑖𝑠 𝐵𝑂𝑇 ✅ 
 
          👇 𝑂𝑡ℎ𝑒𝑟 𝑇𝑜𝑝𝑖𝑐 👇
-         
-8=> 𝑃𝑙𝑒𝑎𝑠𝑒 𝐽𝑜𝑖𝑛 𝑂𝑢𝑟 𝐶ℎ𝑎𝑡𝑡𝑖𝑛𝑔 𝐺𝑟𝑜𝑢𝑝 ✅ 
-
-9=> 𝐷𝑜𝑛'𝑡 𝑓𝑜𝑟𝑔𝑒𝑡 𝑡𝑜 𝐽𝑜𝑖𝑛 𝑀𝑢𝑠𝑖𝑐 𝐺𝑟𝑜𝑢𝑝 𝑎𝑙𝑠𝑜 🔥🎵🎵.𝐶𝑜𝑚𝑒( 𝑀𝑢𝑠𝑖𝑐 𝐺𝑟𝑜𝑢𝑝 🎵)ℎ𝑒𝑟𝑒 𝑎𝑛𝑑 𝐿𝑖𝑠𝑡𝑒𝑛 𝑆𝑜𝑛𝑔𝑠 𝑖𝑛 𝑉𝐶 𝑤𝑖𝑡ℎ 𝐹𝑟𝑖𝑒𝑛𝑑𝑠 🎵.
 
 10=> [🔥𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙🔥 😎](https://t.me/tamil_blaste)
 
-𝙏𝙝𝙞𝙨 𝙋𝙧𝙤 𝙗𝙤𝙩 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙗𝙮 [𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙](https://t.me/shubhamtech2)
+𝙏𝙝𝙞𝙨 𝙋𝙧𝙤 𝙗𝙤𝙩 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙗𝙮 [JBR🅡🅐🅙](https://t.me/jbrofficial)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD 💞༆✦Sαмαитнα✦༆💞 TO YOUR GROUP ➕️", url="t.me/alinatheprincesss_bot?startgroup=true"),
+            text="➕️ ADD 💞༆✦Sαмαитнα✦༆💞 TO YOUR GROUP ➕️", url="t.me/grpmanagbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
@@ -119,31 +115,31 @@ buttons = [
        
     ],
     [  
-        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
-    InlineKeyboardButton(text="🎵MUSIC-GROUP🎵",url="https://t.me/MUSIC_CHATS_GROUP"),
+        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/crazyrocks"),
+    InlineKeyboardButton(text= "Movie Request🎵",url="https://t.me/ccrequest"),
 ], 
- [ InlineKeyboardButton(text="👑BOT-CREADIT👑",url="https://t.me/TERABAAP_DEVIL"),
+ [ InlineKeyboardButton(text="👑OUR CHANNEL👑",url="https://t.me/crazy_rockers"),
  ],
 
 
-    [ InlineKeyboardButton(text="🔥JOIN CHATTING GROUP🔥",url="https://t.me/friendhship"),
+    [ InlineKeyboardButton(text="🔥JOIN channel🔥",url="https://t.me/cobra_download"),
 ],
 ]
 
 HELP_STRINGS = """
-💞𝐀𝐋𝐈𝐍𝐀💞 WITH NEW FEATURES 
+💞✦Sαмαитнα✦💞 WITH NEW FEATURES 
 
-Don't forget ALINA is a Powerful and advance Bot 😎 You can expect more from this Bot 🔥..
-Please check all commands of ALINA after that you can use all PRO features of this Bot. Explore all commands of ALINA 😎🤔.
-One Intresting Feature in ALINA bot => You can access Google in Groups using this Bot and also you can get images in Group using this Bot 😎.
+Don't forget Sαмαитнα is a Powerful and advance Bot 😎 You can expect more from this Bot 🔥..
+Please check all commands of Sαмαитнα after that you can use all PRO features of this Bot. Explore all commands of Sαмαитнα 😎🤔.
+One Intresting Feature in Sαмαитнα bot => You can access Google in Groups using this Bot and also you can get images in Group using this Bot 😎.
 
                  #UNSTOPPABLEALINA#
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞𝐀𝐋𝐈𝐍𝐀💞*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞Sαмαитнα*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT* [.](https://telegra.ph/file/167501102e7b1b7cca989.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @jbrofficial* [.](https://telegra.ph/file/1ddd67aa01b1a384841b5.jpg)
 """
 
 
@@ -392,7 +388,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm [💞𝐀𝐋𝐈𝐍𝐀💞](https://telegra.ph/file/167501102e7b1b7cca989.jpg), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm [💞Sαмαитнα💞](https://telegra.ph/file/1ddd67aa01b1a384841b5.jpg), a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
@@ -400,7 +396,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Masha's licensed under the GNU General Public License v3.0_
-                 Here is the [💾Repository](https://github.com/prince301102/tiana-2.0).
+                 Here is the [💾YOUTUB](https://www.youtube.com/channel/UC-43NwS9v4S32l4tS9GxYWg).
                  If you have any question about masha, let us know at @princebotsupport.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -427,8 +423,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *💞𝐀𝐋𝐈𝐍𝐀💞 BOT*
-                 \nHere is the [Source Code](https://GitHub.com/prince301102/tiana-2.0) .""",
+            text=""" Hi..🤗 I'm *💞Sαмαитнα💞 BOT*
+                 \nHere is the [Source Code](https://www.youtube.com/channel/UC-43NwS9v4S32l4tS9GxYWg) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
