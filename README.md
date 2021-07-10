@@ -2,7 +2,7 @@
 THIS IS GROUP MANAGER BOT.
 # DEPLOYMENT
 ### CLICK BELOW IMAGE TO DEPLOY
-[![Deploy](https://telegra.ph/file/167501102e7b1b7cca989.jpg)](https://heroku.com/deploy?template=https://github.com/Shubhamtech23/ALINA)
+[![Deploy](https://telegra.ph/file/1ddd67aa01b1a384841b5.jpg)](https://heroku.com/deploy?template=https://github.com/Shubhamtech23/ALINA)
 
 ## DEPLOY HERE 
 
