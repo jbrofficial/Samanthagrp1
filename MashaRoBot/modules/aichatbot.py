@@ -11,7 +11,7 @@ url = "https://acobot-brainshop-ai-v1.p.rapidapi.com/get"
 
 translator = google_translator()
 
-BOT_ID = 1862458385
+BOT_ID = 1846917640
 
 def extract_emojis(s):
     return "".join(c for c in s if c in emoji.UNICODE_EMOJI)
@@ -187,10 +187,10 @@ async def redaura(client, message):
     result = result.replace('"}', "")
     result = result.replace("Aco", "Emcee")
     result = result.replace("Eliza", "@Emcee_Bot")
-    result = result.replace("Hi~", "Hello Friend I Am 💞 @alinatheprincesss_bot 💞")
-    result = result.replace("My dear great botmaster, Lyciabot Team.", "Made By 🔥 @shubhamtech2 🔥")
-    result = result.replace("Have the control right.", "My Father Is 🔥 @shubhamtech2 🔥")
-    result = result.replace("I was created by Lyciabot Team.", "I was created by 🔥 @shubhamtech2 🔥.")
+    result = result.replace("Hi~", "Hello Friend I Am 💞 @grpmangbot 💞")
+    result = result.replace("My dear great botmaster, Lyciabot Team.", "Made By 🔥 @jbrofficial 🔥")
+    result = result.replace("Have the control right.", "My Father Is 🔥 @jbrofficial🔥")
+    result = result.replace("I was created by Lyciabot Team.", "I was created by 🔥 @jbrofficial 🔥.")
     result = result.replace("<a href=\\", "<a href =")
     result = result.replace("<\/a>", "</a>")
     red = result
@@ -265,11 +265,11 @@ async def redaura(client, message):
     result = result.replace('{"cnt":"', "")
     result = result.replace('"}', "")
     result = result.replace("Aco", "Emcee")
-    result = result.replace("Eliza", "💞 @alinatheprincesss_bot 💞")
-    result = result.replace("Hi~", "Hello Friend I Am 💞 @alinatheprincesss_bot 💞")
+    result = result.replace("Eliza", "💞 @grpmangbot 💞")
+    result = result.replace("Hi~", "Hello Friend I Am 💞༆✦Sαмαитнα✦༆ 💞")
     result = result.replace("My dear great botmaster, Daisybot Team.", "Made By @PRINCE_3011")
-    result = result.replace("Have the control right.", "My Father Is 🔥 @shubhamtech2 🔥")
-    result = result.replace("I was created by Lyciabot Team.", "I was created by 🔥 @shubhamtech2 🔥.")
+    result = result.replace("Have the control right.", "My Father Is 🔥 @jbrofficial 🔥")
+    result = result.replace("I was created by Lyciabot Team.", "I was created by 🔥 @jbrofficial 🔥.")
     result = result.replace("<a href=\\", "<a href =")
     result = result.replace("<\/a>", "</a>")
     red = result
