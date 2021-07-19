@@ -95,9 +95,6 @@ buttons = [
             text="✨MY OWNER 😎✨", url="http://t.me/jbrofficial"),
        
     ],
-InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="t.me/grpmangbot?startgroup=true")
-    ],
     [  
         InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/crazyrocks"),
     InlineKeyboardButton(text= "Movie Request🎵",url="https://t.me/ccrequest"),
