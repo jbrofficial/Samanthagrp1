@@ -74,28 +74,11 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 ༆Sαмαитнα❤️༆. /n How are you.? 
-𝙃𝙚𝙮,𝙄 𝙖𝙢 𝙖 𝙂𝙧𝙤𝙪𝙥 𝙈𝙖𝙣𝙖𝙜𝙚𝙧😎 created by @jbrofficial, /n 𝙈𝙖𝙙𝙚 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧 𝙈𝙖𝙣𝙖𝙜𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥𝙨.
+PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 ༆Sαмαитнα❤️༆. How are you.? 
+𝙃𝙚𝙮,𝙄 𝙖𝙢 𝙖 𝙂𝙧𝙤𝙪𝙥 𝙈𝙖𝙣𝙖𝙜𝙚𝙧😎 created by @jbrofficial, 𝙈𝙖𝙙𝙚 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧 𝙈𝙖𝙣𝙖𝙜𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥𝙨.
+[🔥 REQUEST MOVIE🔥 😎](https://t.me/ccrequest)
 
-1=> 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑚𝑎𝑛𝑎𝑔𝑒 𝑦𝑜𝑢𝑟 𝐺𝑟𝑜𝑢𝑝.✅ 
-
-2=> 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑝𝑙𝑎𝑦 𝑠𝑜𝑛𝑔𝑠 𝑖𝑛 𝑉𝐶.✅ 
-
-3=> ✦Sαмαитнα✦ 𝑖𝑠 𝑎 𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙 𝑎𝑛𝑑 ℎ𝑖𝑔ℎ-𝑎𝑑𝑣𝑎𝑛𝑐𝑒 𝐵𝑂𝑇 ✅ 
-
-4=> ✦Sαмαитнα✦ 𝐶𝑜𝑚𝑒𝑠 𝑤𝑖𝑡ℎ 𝑁𝑒𝑤 𝑎𝑛𝑑 𝑎𝑑𝑣𝑎𝑛𝑐𝑒 𝑓𝑒𝑎𝑡𝑢𝑟𝑒 ✅
-
-5=> 𝑌𝑜𝑢 𝑐𝑎𝑛'𝑡 𝑐𝑜𝑚𝑝𝑎𝑟𝑒 ✦Sαмαитнα✦ 𝐵𝑂𝑇 𝑤𝑖𝑡ℎ 𝑜𝑡ℎ𝑒𝑟𝑠 𝐵𝑜𝑡 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 ✦Sαмαитнα✦ 𝑖𝑠 𝑎 𝑃𝑅𝑂 𝐵𝑂𝑇 😎
-
-6=> 𝑀𝑜𝑟𝑒 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑜𝑛𝑙𝑦 𝑖𝑛 Sαмαитнα 𝐵𝑂𝑇 😎
-
-7=> 𝑂𝑛𝑒 𝑏𝑜𝑡(✦Sαмαитнα✦) 𝑐𝑎𝑛 𝑑𝑜 𝑒𝑣𝑒𝑟𝑦𝑡ℎ𝑖𝑛𝑔 𝑜𝑛𝑙𝑦🔥 𝑌𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛 𝑐𝑜𝑚𝑚𝑎𝑛𝑑𝑠 𝑜𝑓 𝑡ℎ𝑖𝑠 𝐵𝑂𝑇 ✅ 
-
-         👇 𝑂𝑡ℎ𝑒𝑟 𝑇𝑜𝑝𝑖𝑐 👇
-
-10=> [🔥 REQUEST MOVIE🔥 😎](https://t.me/ccrequest)
-
-𝙏𝙝𝙞𝙨 𝙋𝙧𝙤 𝙗𝙤𝙩 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙗𝙮 [JBR](https://t.me/jbrofficial)
+𝙏𝙝𝙞𝙨 𝙋𝙧𝙤 𝙗𝙤𝙩 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙗𝙮 [🅙𝕓𝕣  𝕠𝕗𝕗𝕚𝕔𝕚𝕒𝕝](https://t.me/jbrofficial)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
@@ -111,6 +94,9 @@ buttons = [
         InlineKeyboardButton(
             text="✨MY OWNER 😎✨", url="http://t.me/jbrofficial"),
        
+    ],
+InlineKeyboardButton(
+            text="➕️ ADD TO YOUR GROUP ➕️", url="t.me/grpmangbot?startgroup=true")
     ],
     [  
         InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/crazyrocks"),
@@ -131,7 +117,7 @@ Don't forget Sαмαитнα is a Powerful and advance Bot 😎 You can expect m
 Please check all commands of Sαмαитнα after that you can use all PRO features of this Bot. Explore all commands of Sαмαитнα 😎🤔.
 One Intresting Feature in Sαмαитнα bot => You can access Google in Groups using this Bot and also you can get images in Group using this Bot 😎.
 
-                 #UNSTOPPABLEALINA#
+                 #UNSTOPPABLE#
 
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞Sαмαитнα*꧂
 
